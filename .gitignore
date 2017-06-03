@@ -32,3 +32,14 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+
+#github stuff
+/Temp/UnityLockfile
+/Temp/TarGZ/github-for-unity-0.11.0.0-alpha
+/Assets/Editor/GitHub/PlatformResources/mac/git-lfs.zip
+Assets/Editor/GitHub/PlatformResources/windows/git-lfs.zip
+Assets/Editor/GitHub/PlatformResources/mac/git-lfs.zip.meta
+Assets/Editor/GitHub/PlatformResources/windows/git-lfs.zip.meta
+Assets/Editor/GitHub/PlatformResources/windows/git.zip.meta
+/Assets/Editor/GitHub/PlatformResources/windows/git-lfs.zip
